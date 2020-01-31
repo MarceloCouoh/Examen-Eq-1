@@ -30,4 +30,17 @@ personas que son de 3tercera edad, o aquellos que no saben utilizar una tecnolog
 
 Valor: CuboIT esta hecho para un lugar rudo y ligero al momento de ser trasladado 
 en muchos lugares con un costo acecible en donde cualquier persona pueda tener
-su propio bote de basura.   
+su propio bote de basura.
+Diagrama ETL
+
+Extracion: CuboIT tiene la funcion de almacenar objetos nuevos en una base de 
+datos que es Mysql que tiene dos tablas, una que son los organicos y otra de 
+inorganicos que se guardan en forma de imagen.
+Tambien el sensor de procimidad enviara un mensaje a la empresa en donde le 
+avisara que el contendor de basura este llene.
+
+Transformacion: CuboIT tiene el objetivo de minimisar la contaminacion que el 
+dia de hoy vivimos.
+
+Load: CuboIT tambien contara con una pagina web en donde les mostrara en donde 
+estan los contenedores y tambien les mostrara la ruta.  
