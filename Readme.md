@@ -8,4 +8,26 @@
 
 
 
+Las 5 V
+Velocidad: El 8 de cada 10 personas que vivimos en mexico, no tiran 
+adecuadamente su basura adecudamente por que la malloria no estan acostumbrados
+poner la basura en su lugar y de igual manera las personas que
+viven en un estado de problesa no les ensellan a los pequellos el valor que
+tiene de separa los organicos e inorganicos en el contenedor de basura. Es 
+por eso que CuboIT tiene el trabajo de separar adecuadamente la basura al 
+momento que el cliente introdusca la basura y CuboIT lee con rapidez el objeto
+e\i lo separa. 
 
+Variedad: CuboIT no solo puede separa la basura, si no que tambien notifica 
+a la empresa en la pagina web, que el contenedor esta lleno y les manda una ruta 
+donde se ubica el contenedor.
+
+Volumen: CuboIT tiene un espacio adecuadamente donde puede almacenar la basura 
+y puede compactar mas el espacio.
+
+Veracidad: CuboIT tiene las funciones muy facil y practico de usar para aquellas 
+personas que son de 3tercera edad, o aquellos que no saben utilizar una tecnologia
+
+Valor: CuboIT esta hecho para un lugar rudo y ligero al momento de ser trasladado 
+en muchos lugares con un costo acecible en donde cualquier persona pueda tener
+su propio bote de basura.   
