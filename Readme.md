@@ -43,3 +43,5 @@ dia de hoy vivimos.
 
 Load: CuboIT tambien contara con una pagina web en donde les mostrara en donde 
 estan los contenedores y tambien les mostrara la ruta.  
+DIAGRAMA(https://drive.google.com/file/d/1IqjATDTVgo0zaupFlK6w-vomnHk-p4RI/view?usp=sharing)
+
