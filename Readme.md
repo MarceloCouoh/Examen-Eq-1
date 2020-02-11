@@ -12,7 +12,7 @@ Velocidad: Para el manejo de nuestra informacion el proceso de velocidad es la q
 
 Variedad: Nuestros datos por la caraccteristica del proyecto son muy diversos por lo que la informacion en nuestro filesistema para su proceso requiere de un variedad amplia tanto de formatos, tamaño y la estructura en este caso estructurado.
 
-Volumen: En nuetrocaso la informacion que manejaremos seran imágenes de los distintos tipos de desechos para su clasificacion y estos estan contemplados de cientos de fotografias que se manejan como datos para almecenarlos.
+Volumen: En nuetro caso la informacion que manejaremos seran imágenes de los distintos tipos de desechos para su clasificacion y estos estan contemplados de cientos de fotografias que se manejan como datos para almecenarlos.
 
 Veracidad: De los datos obtenidos son aquellos datos que si son utiles, en nuestro caso seran las fotografias que si nos permitan procesarlas para la toma de decisiones y no solo sean nulos y esto radica en la confiabilidad de donde se obtiene los datos en este caso nuestro dispositivo.  
 
