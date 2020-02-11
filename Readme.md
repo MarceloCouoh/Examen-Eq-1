@@ -18,6 +18,6 @@ Veracidad: De los datos obtenidos son aquellos datos que si son utiles, en nuest
 
 Valor: Se traduce en lo quepodemos hacer con las fotos que obtenemos si una foto es nitida o no para poder procesarla y si es asi esa misma se le da el valor de procesarla asi como genera un historial de la zona u generar otra clase de servicios.
 
-
+Diagrama de ETL "https://drive.google.com/open?id=1t8OtwH0fiSvTjVluXPWTr9dV5HpOLH9-"
 
 
