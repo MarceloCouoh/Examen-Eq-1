@@ -20,6 +20,4 @@ Valor: Se traduce en lo quepodemos hacer con las fotos que obtenemos si una foto
 
 
 
- 
-DIAGRAMA(https://drive.google.com/file/d/1IqjATDTVgo0zaupFlK6w-vomnHk-p4RI/view?usp=sharing)
 
