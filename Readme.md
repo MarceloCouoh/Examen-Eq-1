@@ -18,18 +18,8 @@ Veracidad: De los datos obtenidos son aquellos datos que si son utiles, en nuest
 
 Valor: Se traduce en lo quepodemos hacer con las fotos que obtenemos si una foto es nitida o no para poder procesarla y si es asi esa misma se le da el valor de procesarla asi como genera un historial de la zona u generar otra clase de servicios.
 
-Diagrama ETL
 
-Extracion: CuboIT tiene la funcion de almacenar objetos nuevos en una base de 
-datos que es Mysql que tiene dos tablas, una que son los organicos y otra de 
-inorganicos que se guardan en forma de imagen.
-Tambien el sensor de procimidad enviara un mensaje a la empresa en donde le 
-avisara que el contendor de basura este llene.
 
-Transformacion: CuboIT tiene el objetivo de minimisar la contaminacion que el 
-dia de hoy vivimos.
-
-Load: CuboIT tambien contara con una pagina web en donde les mostrara en donde 
-estan los contenedores y tambien les mostrara la ruta.  
+ 
 DIAGRAMA(https://drive.google.com/file/d/1IqjATDTVgo0zaupFlK6w-vomnHk-p4RI/view?usp=sharing)
 
