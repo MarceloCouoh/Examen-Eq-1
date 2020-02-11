@@ -8,28 +8,16 @@
 
 
 Las 5 V
-Velocidad: El 8 de cada 10 personas que vivimos en mexico, no tiran 
-adecuadamente su basura adecudamente por que la malloria no estan acostumbrados
-poner la basura en su lugar y de igual manera las personas que
-viven en un estado de problesa no les ensellan a los pequellos el valor que
-tiene de separa los organicos e inorganicos en el contenedor de basura. Es 
-por eso que CuboIT tiene el trabajo de separar adecuadamente la basura al 
-momento que el cliente introdusca la basura y CuboIT lee con rapidez el objeto
-e\i lo separa. 
+Velocidad: Para el manejo de nuestra informacion el proceso de velocidad es la que hace mayor referencia o importancia para el exito del mismo ya que nuestro analisis y tiempo de toma de decisiones de los dartos que obtenemos debe ser suficiente para que los daros basura sean eliminados y solo se procese la informacion que ya haya sido verificada por la veracidad.  
 
-Variedad: CuboIT no solo puede separa la basura, si no que tambien notifica 
-a la empresa en la pagina web, que el contenedor esta lleno y les manda una ruta 
-donde se ubica el contenedor.
+Variedad: Nuestros datos por la caraccteristica del proyecto son muy diversos por lo que la informacion en nuestro filesistema para su proceso requiere de un variedad amplia tanto de formatos, tamaño y la estructura en este caso estructurado.
 
-Volumen: CuboIT tiene un espacio adecuadamente donde puede almacenar la basura 
-y puede compactar mas el espacio.
+Volumen: En nuetrocaso la informacion que manejaremos seran imágenes de los distintos tipos de desechos para su clasificacion y estos estan contemplados de cientos de fotografias que se manejan como datos para almecenarlos.
 
-Veracidad: CuboIT tiene las funciones muy facil y practico de usar para aquellas 
-personas que son de 3tercera edad, o aquellos que no saben utilizar una tecnologia
+Veracidad: De los datos obtenidos son aquellos datos que si son utiles, en nuestro caso seran las fotografias que si nos permitan procesarlas para la toma de decisiones y no solo sean nulos y esto radica en la confiabilidad de donde se obtiene los datos en este caso nuestro dispositivo.  
 
-Valor: CuboIT esta hecho para un lugar rudo y ligero al momento de ser trasladado 
-en muchos lugares con un costo acecible en donde cualquier persona pueda tener
-su propio bote de basura.
+Valor: Se traduce en lo quepodemos hacer con las fotos que obtenemos si una foto es nitida o no para poder procesarla y si es asi esa misma se le da el valor de procesarla asi como genera un historial de la zona u generar otra clase de servicios.
+
 Diagrama ETL
 
 Extracion: CuboIT tiene la funcion de almacenar objetos nuevos en una base de 
